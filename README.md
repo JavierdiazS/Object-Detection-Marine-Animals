@@ -22,7 +22,7 @@ First Test (Pre-trained MobileNet Model):
 
   * We have 186 images (70% Training, 30% Testing).
 
-(I will update the project with an effective training cycle to dynamically generate a database and train multiple models).
+**(I will update the project with an effective training cycle to dynamically generate a database and train multiple models).**
 
 ## Repo structure
 
