@@ -18,7 +18,7 @@ Classification, Localization, and Tracking System for Three Species of Animals (
 
 This system is designed to monitor the quantity of species passing through specific strategic points and to determine the hours with the highest activity of these species.
 
-First Test (Pre-trained MobileNet Model):
+First Test (Pre-trained SSD + MobileNetV2 Model):
 
   * We have 186 images (70% Training, 30% Testing).
 
