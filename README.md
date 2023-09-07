@@ -46,7 +46,7 @@ The project has the following structure:
  
  ## Results 
  
- (First Proof)
+ (First Proof with SSD + MobileNetV2)
 
 ![graficas](https://github.com/JavierdiazS/Object-Detection-Marine-Animals/assets/75210642/a62cf6b2-df5f-4cac-9937-e5d7b42c8d5c)
 
