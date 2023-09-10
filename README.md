@@ -1,4 +1,4 @@
-# Object-Detection-Marine-Animals
+# Object Detection - Marine Animals
 
 ![Presentación1](https://github.com/JavierdiazS/Object-Detection-Marine-Animals/assets/75210642/d7983876-9b31-44f9-96c0-eab70e9ce2fb)
 
